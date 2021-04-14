@@ -1,10 +1,10 @@
 ## PiInterview
 This is a simple web application that the user can search for a transaction using the transaction Id. The transaction records will 
-be save on a database then display on a datatable.
+be save on a database then displayed on a datatable.
 The Error code will also display in datatable a separate tab.
 
 ## Setup
-Run the command to add the seed errorcode data 
+Run the command to add the seed error code data and tables 
 ```
 EntityFrameworkCore\update-database
 ```
