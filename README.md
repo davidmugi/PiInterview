@@ -9,7 +9,7 @@ Run the command to add the seed error code data and tables
 EntityFrameworkCore\update-database
 ```
 ## Built With
-* [asp.net](https://dotnet.microsoft.com/apps/aspnet) - Framework used
+* [spring.boot](https://spring.io/projects/spring-boot) - Framework used
 
 
 ## Authors
